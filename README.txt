@@ -1,0 +1,1 @@
+If you want to play the game download the files and run "Zombie Apocalypse/Release/Game.exe"

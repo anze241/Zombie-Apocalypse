@@ -1,0 +1,549 @@
+﻿  Source.cpp
+C:\SDL\Zombie Apocalypse\Game\Player.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\SDL\Zombie Apocalypse\Game\Player.h(31,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(31,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(32,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(32,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(50,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(50,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(51,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(51,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(118,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(118,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(125,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(125,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(125,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(127,31): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(135,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(135,124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(135,152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(135,181): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(137,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(137,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(138,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(139,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(153,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(153,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(154,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(154,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(155,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(156,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(181,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(181,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(181,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(181,122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(181,152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(183,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(183,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(184,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(185,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(186,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(199,46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(200,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\SDL\Zombie Apocalypse\Game\Player.h(204,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\SDL\Zombie Apocalypse\Game\Player.h(210,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(214,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(219,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Player.h(223,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,25): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,50): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,50): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,75): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,94): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(47,94): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(81,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(81,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(81,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(81,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(81,48): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(81,48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(81,72): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(81,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(81,87): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(81,87): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(93,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(93,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(93,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(93,103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(93,78): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(93,78): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(93,98): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(93,98): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(109,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(110,30): warning C4305: '-=': truncation from 'double' to 'float'
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(111,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(112,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(114,30): warning C4305: '-=': truncation from 'double' to 'float'
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(129,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(130,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(131,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(132,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(167,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(177,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(180,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(185,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(190,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(196,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(199,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(205,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(208,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(296,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Zombie.h(300,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(44,23): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(44,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(44,43): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(44,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(44,63): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(44,63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(44,83): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(44,83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(60,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(60,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(60,49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(60,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(146,26): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(146,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(146,42): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(146,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(146,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(146,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(146,74): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(146,74): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(153,26): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(153,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(153,42): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(153,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(153,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(153,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(153,74): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(153,74): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(173,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(173,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(173,49): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(173,49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(173,65): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(173,65): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(173,80): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(173,80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(174,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(174,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(174,45): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(174,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(174,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(174,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(174,76): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(174,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(260,25): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(260,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(260,42): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(260,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(260,57): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(260,57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(260,73): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(260,73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(269,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(269,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(269,45): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(269,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(269,83): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(269,83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(269,99): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(269,99): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(286,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(286,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(287,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(287,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(303,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(310,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(329,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(329,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(329,43): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(329,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(329,59): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(329,59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(329,74): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(329,74): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(331,27): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(336,26): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(336,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(336,42): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(336,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(336,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(336,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(336,73): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(336,73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(338,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(339,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(341,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(342,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(343,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(344,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(346,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(347,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(348,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(348,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(349,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(349,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(362,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(362,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(362,25): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(362,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(362,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(362,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(362,57): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(362,57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(362,77): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(362,77): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(364,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(364,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(364,43): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(364,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(364,62): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(364,62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(371,24): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(371,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(371,41): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(371,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(371,56): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(371,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(371,72): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(371,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(390,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(393,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(418,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(418,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(418,45): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(418,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(418,81): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(418,81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(418,97): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(418,97): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(435,23): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(435,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(435,40): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(435,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(435,55): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(435,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(435,71): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(435,71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(440,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(444,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(449,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(455,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(515,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(516,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(517,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(518,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(520,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(521,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(531,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(532,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(533,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(534,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(536,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(537,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(557,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(579,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(579,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(582,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(582,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(582,143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(582,202): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(584,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(594,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(594,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(597,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(597,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(597,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(597,153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(597,212): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(599,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(608,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(608,131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(611,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(611,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(611,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(611,159): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(611,200): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(613,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(622,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(622,131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(625,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(625,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(625,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(625,164): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(625,212): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(627,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(636,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(636,131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(639,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(639,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(639,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(639,159): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(639,200): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(641,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(733,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(734,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(745,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(745,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(745,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(745,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(745,59): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(745,59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(745,75): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(745,75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(754,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(754,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(754,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(754,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(754,59): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(754,59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(754,75): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(754,75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(762,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(762,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(762,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(762,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(762,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(762,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(762,76): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(762,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(770,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(770,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(770,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(770,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(770,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(770,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(770,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(770,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(770,83): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(770,83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(771,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(771,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(776,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(776,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(776,47): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(776,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(776,63): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(776,63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(776,78): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(776,78): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(784,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(784,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(784,57): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(784,57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(784,73): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(784,73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(784,88): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(784,88): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(794,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(794,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(794,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(794,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(794,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(794,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(794,76): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(794,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(798,22): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(798,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(798,39): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(798,39): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(798,54): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(798,54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(798,70): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(798,70): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(801,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(801,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(801,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(801,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(801,59): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(801,59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(801,75): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(801,75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(804,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(804,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(804,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(804,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(804,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(804,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(804,76): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(804,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(806,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(806,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(806,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(806,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(806,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(806,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(806,76): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(806,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(832,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(832,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(832,26): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(832,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(832,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(832,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(832,62): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(832,62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(832,82): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(832,82): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(837,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(837,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(837,49): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(837,49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(837,86): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(837,86): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(837,102): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(837,102): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(858,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(858,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(858,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(858,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(858,43): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(858,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(858,59): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(858,59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(858,81): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(858,81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(863,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(863,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(863,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(863,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(863,83): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(863,83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(863,99): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(863,99): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1002,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1002,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1002,43): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1002,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1002,142): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1002,142): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1006,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1006,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1006,47): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1006,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1006,153): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1006,153): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1010,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1010,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1010,43): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1010,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1010,142): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1010,142): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1014,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1014,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1014,45): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1014,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1014,148): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1014,148): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1018,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1018,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1018,45): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1018,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1018,148): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1018,148): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1022,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1022,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1022,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1022,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1022,151): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1022,151): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1166,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1166,109): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1175,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1175,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1175,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1175,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1175,43): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1175,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1175,59): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1175,59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1175,79): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1175,79): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1208,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1208,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1208,24): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1208,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1208,40): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1208,40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1208,56): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1208,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1208,77): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1208,77): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1211,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1211,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1216,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1216,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1216,44): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1216,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1216,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1216,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1216,75): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1216,75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1223,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1223,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1223,54): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1223,54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1223,70): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1223,70): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1223,85): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1223,85): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1237,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1237,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1237,52): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1237,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1237,74): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1237,74): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1237,89): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1237,89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1238,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1238,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1238,48): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1238,48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1238,70): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1238,70): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1238,86): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1238,86): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1471,25): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1471,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1471,42): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1471,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1471,57): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1471,57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1471,73): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1471,73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1476,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1476,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1477,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1477,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1627,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\updateWindow.h(1631,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(37,75): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(37,75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(37,90): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(37,90): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(40,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(41,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(42,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(43,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(46,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\SDL\Zombie Apocalypse\Game\Source.cpp(176,36): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  1 of 331 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game.vcxproj -> C:\SDL\Zombie Apocalypse\Release\Game.exe
